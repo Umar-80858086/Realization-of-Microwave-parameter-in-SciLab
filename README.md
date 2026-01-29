@@ -1,6 +1,6 @@
-\#📡 Waveguide \& Electromagnetic Mode Analysis Toolkit (Scilab)
+# Waveguide \& Electromagnetic Mode Analysis Toolkit (Scilab)
 
-\## Executive Summary
+##  Executive Summary
 
 
 
@@ -12,7 +12,7 @@ The codebase is designed for Electronics \& Communication engineers, RF/microwav
 
 
 
-\##🎯 Key Capabilities
+##  🎯 Key Capabilities
 
 
 
@@ -52,9 +52,9 @@ This repository prioritizes clarity, correctness, and scalability.
 
 
 
-\##📁 Repository Structure \& File Description
+##  📁 Repository Structure \& File Description
 
-\###📘 Documentation
+###  📘 Documentation
 
 
 
@@ -64,13 +64,13 @@ Central documentation and usage guide
 
 
 
-Circular wave guide.docx
+## Circular wave guide.docx
 
 Theoretical background and derivations for circular waveguides
 
 
 
-🔌 Rectangular Waveguide Analysis
+##  🔌 Rectangular Waveguide Analysis
 
 
 
@@ -98,7 +98,7 @@ Relationship between cutoff wavelength and waveguide dimensions
 
 
 
-🟠 Circular Waveguide Analysis
+###  🟠 Circular Waveguide Analysis
 
 
 
@@ -132,7 +132,7 @@ TM₁₁ mode field visualization
 
 
 
-📐 Mathematical \& Physical Modeling
+ ##  📐 Mathematical \& Physical Modeling
 
 
 
@@ -148,7 +148,7 @@ Phase velocity and guided wavelength behavior vs frequency
 
 
 
-🧲 Material \& Ferrite Analysis
+##   🧲 Material \& Ferrite Analysis
 
 
 
@@ -164,7 +164,7 @@ Brute-force optimization of εᵣ and μᵣ to meet target cutoff and dimensions
 
 
 
-⚙️ Requirements
+##   ⚙️ Requirements
 
 
 
